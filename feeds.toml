@@ -1,13 +1,6 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[srid]
+title = "Sridhar Ratnakumar's blog"
+url = "https://www.srid.ca/blog"
+entrySelector = "article a"
+titleSelector = "article a"
+linkSelector = "article a"
