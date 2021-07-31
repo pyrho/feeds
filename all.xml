@@ -2,139 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pyrho.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-30T17:41:28.924Z</updated>
+    <updated>2021-07-31T05:34:00.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.822Z</updated>
+        <updated>2021-07-31T05:34:00.785Z</updated>
         <content type="html"><![CDATA[Heist mini-tutorial]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.823Z</updated>
+        <updated>2021-07-31T05:34:00.785Z</updated>
         <content type="html"><![CDATA[Announcing Ema - Static Sites in Haskell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.825Z</updated>
+        <updated>2021-07-31T05:34:00.785Z</updated>
         <content type="html"><![CDATA[Nix-ifying Rust projects]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.828Z</updated>
+        <updated>2021-07-31T05:34:00.786Z</updated>
         <content type="html"><![CDATA[A brief F# exploration]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.830Z</updated>
+        <updated>2021-07-31T05:34:00.787Z</updated>
         <content type="html"><![CDATA[Pass with GPG]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.830Z</updated>
+        <updated>2021-07-31T05:34:00.788Z</updated>
         <content type="html"><![CDATA[Thinkpad X1 Carbon Gen 7 review]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.831Z</updated>
+        <updated>2021-07-31T05:34:00.790Z</updated>
         <content type="html"><![CDATA[Edit XMonad configuration with IDE support]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.832Z</updated>
+        <updated>2021-07-31T05:34:00.791Z</updated>
         <content type="html"><![CDATA[Creating a new Haskell project with IDE support using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.833Z</updated>
+        <updated>2021-07-31T05:34:00.793Z</updated>
         <content type="html"><![CDATA[Neuron 1.0 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.834Z</updated>
+        <updated>2021-07-31T05:34:00.794Z</updated>
         <content type="html"><![CDATA[Building Static Haskell binaries using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.835Z</updated>
+        <updated>2021-07-31T05:34:00.795Z</updated>
         <content type="html"><![CDATA[Cerveau, a future-proof web app for notes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.836Z</updated>
+        <updated>2021-07-31T05:34:00.796Z</updated>
         <content type="html"><![CDATA[Neuron 0.6 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.838Z</updated>
+        <updated>2021-07-31T05:34:00.798Z</updated>
         <content type="html"><![CDATA[Neuron 0.4 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.839Z</updated>
+        <updated>2021-07-31T05:34:00.799Z</updated>
         <content type="html"><![CDATA[Obelisk tutorial, Markdown preview with Reflex]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.840Z</updated>
+        <updated>2021-07-31T05:34:00.800Z</updated>
         <content type="html"><![CDATA[PureScript mini-tutorial using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.842Z</updated>
+        <updated>2021-07-31T05:34:00.801Z</updated>
         <content type="html"><![CDATA[My release process for Haskell libraries]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.844Z</updated>
+        <updated>2021-07-31T05:34:00.802Z</updated>
         <content type="html"><![CDATA[Lightweight Linux VMs on NixOS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.846Z</updated>
+        <updated>2021-07-31T05:34:00.803Z</updated>
         <content type="html"><![CDATA[Announcing Neuron - Zettelkasten in Haskell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Sridhar Ratnakumar's blog)]]></title>
         <id>https://pyrho.github.io/feeds/all.xml</id>
         <link href="https://pyrho.github.io/feeds/all.xml"/>
-        <updated>2021-07-30T17:41:28.848Z</updated>
+        <updated>2021-07-31T05:34:00.804Z</updated>
         <content type="html"><![CDATA[Nix recipes for Haskellers]]></content>
     </entry>
 </feed>
