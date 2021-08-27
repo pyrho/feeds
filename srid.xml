@@ -2,140 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.srid.ca/blog</id>
     <title>Sridhar Ratnakumar's blog</title>
-    <updated>2021-08-27T05:34:12.979Z</updated>
+    <updated>2021-08-27T17:40:20.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.srid.ca/static/favicon.jpeg</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.228Z</updated>
+        <updated>2021-08-27T17:40:19.534Z</updated>
         <content type="html"><![CDATA[Heist mini-tutorial]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.229Z</updated>
+        <updated>2021-08-27T17:40:19.535Z</updated>
         <content type="html"><![CDATA[Announcing Ema - Static Sites in Haskell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.230Z</updated>
+        <updated>2021-08-27T17:40:19.536Z</updated>
         <content type="html"><![CDATA[Nix-ifying Rust projects]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.232Z</updated>
+        <updated>2021-08-27T17:40:19.538Z</updated>
         <content type="html"><![CDATA[A brief F# exploration]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.233Z</updated>
+        <updated>2021-08-27T17:40:19.539Z</updated>
         <content type="html"><![CDATA[Pass with GPG]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.233Z</updated>
+        <updated>2021-08-27T17:40:19.547Z</updated>
         <content type="html"><![CDATA[Thinkpad X1 Carbon Gen 7 review]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.235Z</updated>
+        <updated>2021-08-27T17:40:19.547Z</updated>
         <content type="html"><![CDATA[Edit XMonad configuration with IDE support]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.236Z</updated>
+        <updated>2021-08-27T17:40:19.547Z</updated>
         <content type="html"><![CDATA[Creating a new Haskell project with IDE support using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.245Z</updated>
+        <updated>2021-08-27T17:40:19.548Z</updated>
         <content type="html"><![CDATA[Neuron 1.0 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.246Z</updated>
+        <updated>2021-08-27T17:40:19.548Z</updated>
         <content type="html"><![CDATA[Building Static Haskell binaries using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.247Z</updated>
+        <updated>2021-08-27T17:40:19.548Z</updated>
         <content type="html"><![CDATA[Cerveau, a future-proof web app for notes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.248Z</updated>
+        <updated>2021-08-27T17:40:19.561Z</updated>
         <content type="html"><![CDATA[Neuron 0.6 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.249Z</updated>
+        <updated>2021-08-27T17:40:19.562Z</updated>
         <content type="html"><![CDATA[Neuron 0.4 released]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[13]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.250Z</updated>
+        <updated>2021-08-27T17:40:19.562Z</updated>
         <content type="html"><![CDATA[Obelisk tutorial, Markdown preview with Reflex]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.251Z</updated>
+        <updated>2021-08-27T17:40:19.564Z</updated>
         <content type="html"><![CDATA[PureScript mini-tutorial using Nix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.252Z</updated>
+        <updated>2021-08-27T17:40:19.564Z</updated>
         <content type="html"><![CDATA[My release process for Haskell libraries]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[16]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.253Z</updated>
+        <updated>2021-08-27T17:40:19.564Z</updated>
         <content type="html"><![CDATA[Lightweight Linux VMs on NixOS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[17]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.261Z</updated>
+        <updated>2021-08-27T17:40:19.564Z</updated>
         <content type="html"><![CDATA[Announcing Neuron - Zettelkasten in Haskell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://www.srid.ca/blog</id>
         <link href="https://www.srid.ca/blog"/>
-        <updated>2021-08-27T05:34:12.262Z</updated>
+        <updated>2021-08-27T17:40:19.566Z</updated>
         <content type="html"><![CDATA[Nix recipes for Haskellers]]></content>
     </entry>
 </feed>
